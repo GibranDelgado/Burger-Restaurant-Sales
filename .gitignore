@@ -1,0 +1,7 @@
+Input_files/
+.env
+credentials_HH.json
+__pycache__/
+*.pyc
+venv/
+.venv/
