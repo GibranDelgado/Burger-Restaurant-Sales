@@ -11,6 +11,9 @@ El objetivo principal es normalizar la información de ventas físicas y digital
    - Enriquecimiento de datos (cálculo de días de la semana, asignación de canales de venta).
 3. **Carga**: Inserción de los dataframes en PostgreSQL mediante psycopg2 y creación de una vista unificada para análisis global.
 
+## 📊 Dashboard
+![image alt](https://github.com/GibranDelgado/Burger-Restaurant-Sales/blob/master/sales.jpg?raw=true)
+
 ## 🗂️ Estructura del repositorio
 
 ### 📁 Scripts
